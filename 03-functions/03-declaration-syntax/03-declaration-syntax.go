@@ -1,0 +1,3 @@
+// What are we talking about when we discuss 'declaration syntax'?
+
+// The style of the language used to create new variables, types, functions, etc...
