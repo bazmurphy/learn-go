@@ -1,0 +1,3 @@
+// The name of a type parameter...
+
+// ...can be anything, but 'T' is a common convention

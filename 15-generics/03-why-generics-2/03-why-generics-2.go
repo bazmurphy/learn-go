@@ -1,0 +1,3 @@
+// Go's approach to language design is...
+
+// Resist adding new features unless they're extremely important
